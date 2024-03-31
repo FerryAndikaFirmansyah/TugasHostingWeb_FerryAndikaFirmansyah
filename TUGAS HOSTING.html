@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil Pribadi</title>
+    <link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+    <header>
+        <h1>Web Programming menggunakan HTML</h1>
+        <br>
+        <h2> Fakultas Ilmu Komputer - Teknik Informatika </h2>
+        <br>
+        <nav>
+            <ul>
+<pre><hr width="100%" size="5" color="blue" align="left"> </pre>
+<h1 align="center">
+                <li><a href="#home">Home</a></li>
+                <li><a href="profil.html">Profil</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+</h1>
+<pre><hr width="100%" size="5" color="blue" align="left"> </pre>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h1 align="center">Belajar Web Programming Sederhana </h1>
+            <p align="center">Web ini adalah tempat untuk belajar bahasa pemrograman sederhana seperti HTML,CSS,PHP,MySQL untuk membuat Profil Pribadi </p>
+            
+        </section>
+<br>
+<section id="home">
+    <hr>
+    <h1 align="center"> HTML </h1>
+<p>HTML atau Hypertext Markup Language adalah bahasa markup yang digunakan untuk membuat struktur halaman website agar dapat ditampilkan pada web browser. Jadi, HTML dapat dianalogikan sebagai pondasi awal dalam menyusun kerangka halaman web secara terstruktur sebelum membahas terkait tampilan desain dan sisi fungsionalitas.  </p>
+<hr>
+<br>
+
+<h1 align="center"> CSS</h1>
+<p> CSS adalah singkatan dari cascading style sheets, bahasa tampilan website yang berguna untuk mengelola elemen website seperti font, warna background, hingga layout. 
+
+    Di dunia web development, CSS digunakan bersama dengan HTML atau XML yang merupakan bahasa markup. Bahkan, menurut sejarahnya, CSS diciptakan agar coding menggunakan HTML menjadi lebih praktis sehingga pekerjaan developer kian mudah. </p>
+<hr>
+<br>
+
+<h1 align="center">PHP</h1>
+<p> PHP adalah singkatan dari Hypertext Preprocessor. PHP berjalan di bagian server side, sehingga script code PHP tidak bisa dilihat melalui browser.  Jika pemrograman HTML dan CSS bekerja di bagian front-end, maka PHP lah yang bekerja di bagian back-end, atau yang menjadi otak program yang dijalankan. Disini, PHP yang bertugas menjalankan eksekusi perintah atau oleh data, sedangkan HTML dan CSS yang berfungsi untuk menampilkan data setelah diolah. </p>
+<hr>
+<br>
+
+<h1 align="center">SQL</h1>
+<p> SQL merupakan akronim dari Structured Query Language, yang berguna sebagai bahasa khusus dalam mengakses dan mengelola data-data yang ada di dalam sebuah basis data relasional. Saat pengaksesan atau pengelolaan data menggunakan perintah-perintah khusus sehingga data bisa dimanipulasi atau dikelola dengan baik. </p>
+
+</section>
+<nav>
+    <p align="center"><a href="#html">HTML</a>
+        <a href="#css">CSS</a>
+        <a href="#php">PHP</a>
+        <a href="#sql">SQL</a>
+        </p>
+        <br>
+        <p align="center">Admin Web, Ferry Andika Firmansyah - 211011450587 </p>
+
+</nav>
+    </main>
+</body>
+</html>

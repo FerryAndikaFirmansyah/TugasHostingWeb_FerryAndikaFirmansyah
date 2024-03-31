@@ -1,0 +1,43 @@
+<style>
+        /* Gaya CSS untuk mengatur tampilan halaman */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #13bd62;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0da843;
+            color: #00040c;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+        }
+
+        nav{
+            background-color: #f0f7f9;
+            color: #f6f7f8;
+            padding: 10px ;
+            text-align= center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 10px;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #cdee27;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        /* Gaya CSS tambahan sesuai kebutuhan Anda */
+    </style>
